@@ -44,3 +44,7 @@ Builds the app for production to the build folder.
 ## License
 
 This project is licensed under the MIT License.
+
+![Screenshot 2024-11-08 213845](https://github.com/user-attachments/assets/98023cb7-af4f-45ee-8e5d-6ff1526ab137)
+
+
