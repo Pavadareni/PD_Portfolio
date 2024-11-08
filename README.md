@@ -7,27 +7,27 @@ This project is a personal portfolio built using modern web technologies includi
 To get started with the project, follow the steps below:
 
 1. Clone the repository:
-    sh
+    ```bash
     git clone https://github.com/Pavadareni/PD_Portfolio
     cd PD_Portfolio
-    
+    ```
 
 2. Install the required dependencies:
-    sh
+    ```
     npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom tailwindcss postcss autoprefixer
-    
+    ```
 
 ## Available Scripts
 
 In the project directory, you can run:
-
-### npm run dev
+```
+npm run dev
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### npm build
-
+``` npm build
+```
 Builds the app for production to the build folder.
 
 ## Technologies Used
